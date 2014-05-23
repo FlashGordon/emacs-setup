@@ -1,0 +1,5 @@
+# -*- coding: utf-8 -*-
+# name: log critical
+# contributor: Søren Mollerup
+# --
+logger.critical("$0")

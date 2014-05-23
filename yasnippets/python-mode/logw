@@ -1,0 +1,5 @@
+# -*- coding: utf-8 -*-
+# name: log warning
+# contributor: Søren Mollerup
+# --
+logger.warning("$0")

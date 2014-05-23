@@ -1,0 +1,5 @@
+# -*- coding: utf-8 -*-
+# name: log debug
+# contributor: Søren Mollerup
+# --
+logger.debug("$0")

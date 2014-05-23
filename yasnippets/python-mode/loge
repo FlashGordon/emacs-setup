@@ -1,0 +1,5 @@
+# -*- coding: utf-8 -*-
+# name: log error
+# contributor: Søren Mollerup
+# --
+logger.error("$0")
